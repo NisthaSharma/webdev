@@ -3,3 +3,4 @@ This is a simple and user friendly School website built for demo school- ABCscho
 It is built on HTML 5, BOOTSTRAP 5 With CSS and Javascript to further enhancea few features.
 The nav bar uses CSS transition for a attractive smooth transition. 
 There is a small digital clock at the end of the page built using Javascript.
+Bootstrap 5 starter template was used for the base template.
